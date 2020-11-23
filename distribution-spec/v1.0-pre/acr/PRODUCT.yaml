@@ -1,0 +1,8 @@
+vendor: Microsoft
+name: Azure Container Registry
+version: v1.0.0
+website_url: https://azure.microsoft.com/services/container-registry/
+repo_url: https://github.com/Azure/acr
+documentation_url: https://docs.microsoft.com/azure/container-registry/
+type: distribution
+description: 'Azure Container Registry allows you to build, store, and manage container images and artifacts in a private registry for all types of container deployments. Use Azure container registries with your existing container development and deployment pipelines. Use Azure Container Registry Tasks to build container images in Azure on-demand, or automate builds triggered by source code updates, updates to a container's base image, or timers.'
